@@ -1,9 +1,7 @@
-import React from 'react'
+import CitizenLogin from './Pages/Login/CitizenLogin.jsx'
 
 const App = () => {
-  return (
-    <div>App</div>
-  )
+  return <CitizenLogin />
 }
 
 export default App
